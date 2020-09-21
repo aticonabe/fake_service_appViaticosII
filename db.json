@@ -1,0 +1,32 @@
+{
+  "listComprobantesXtipo":[
+    {
+      "gastoID": 2010,
+      "estado": "Aceptado",
+      "tipoDocDescripcion": "Factura",
+      "codigoDocumento": "FACT0012",
+      "fecha": "11/15/2019",
+      "monto": 50
+    },
+    {
+      "gastoID": 2013,
+      "estado": "Aceptado",
+      "tipoDocDescripcion": "Factura",
+      "codigoDocumento": "FACT0013",
+      "fecha": "11/17/2019",
+      "monto": 50
+    }
+  ],
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
